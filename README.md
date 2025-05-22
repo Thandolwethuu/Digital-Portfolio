@@ -17,4 +17,5 @@ I found the career counselling session helpful and it provided helpul insigth.
 ## Skills and interests
 
 ### Evidence
+![Image](https://github.com/user-attachments/assets/47c8672d-310f-4d61-a181-f0f4108e70aa)
 
