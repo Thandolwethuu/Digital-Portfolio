@@ -12,27 +12,35 @@
 
 ### Reflection : Business Communication (STAR Technique)
 **Situation:**
-I was completing an online module about Business Communication as part of my coursework. The activity included questions on communication styles, email etiquette, and professional tone.
+I was completing an online module about Business Communication as part of my schoolwork. The activity included questions on communication styles, email etiquette, and professional tone.
 
 **Task:**
 My goal was to understand the main principles of business communication and apply them to professional settings, such as writing formal emails and communicating effectively in meetings or virtual environments.
 
 **Action:**
-I carefully read each question and reviewed examples of formal and informal communication. I focused on identifying when to use formal language, how to maintain a professional tone, and the importance of non-verbal cues during interactions.
+I completed an online quizzes related to business communication. This included identifying the purpose of communication, choosing the correct tone for business emails, and applying proper etiquette in virtual meetings. I reviewed my answers to understand why certain options were correct and practiced writing short email samples using formal language.
 
 **Result:**
-I successfully completed the module with a score of 100%. Through this activity, I learned that clear, respectful, and professional communication is essential in any workplace. I also gained confidence in using appropriate tone and etiquette, especially in business emails and online meetings.
-***
+I successfully completed the module with a score of 100%. Through this activity I learned that clear, respectful, and professional communication is essential in any workplace.I developed a better understanding of how to maintain professionalism when communicating with colleagues or clients. 
 ## Interview Skills
 
 ### Evidence
 <img width="1803" height="906" alt="interview skills" src="https://github.com/user-attachments/assets/8e275607-5ff9-4e39-a70c-d3d2ecbbd49c" />
 
-
 *This image shows the evidence that I did the assessment based on Interview Skills*
 
 ### Reflection
-I learnt that understanding my core values is very important for choosing a suitable career for me. Knowing what makes me feel proud, happy, and fulfilled helps me make better decisions about jobs and work environments. When my job matches my values, I will feel more satisfied and motivated. This lesson taught me to think about what really matters to me, so I can find work that is meaningful and enjoyable.
+**Situation:**
+I completed an online task about Interview Skills. The activity included questions on how to prepare for an interview, how to answer common questions, and how to present myself professionally.
+
+**Task:**
+My goal was to learn how to perform well in job interviews by understanding the purpose of interviews and using techniques like the CAR method to give clear answers.
+
+**Action:**
+I studied each question carefully, practiced how to introduce myself confidently, and learned how to talk about my strengths and weaknesses honestly. I also learned the importance of researching the company before the interview.
+
+**Result:**
+I completed the module with a score of 100%. I learned how to prepare better for interviews, stay calm, and communicate clearly. I now feel more confident about presenting myself in a professional way.
 ***
 ## Mock Interview Video
 
@@ -42,9 +50,17 @@ I learnt that understanding my core values is very important for choosing a suit
 *This image shows evidence that I did the asessment based on Mock interview Video.*
 
 ### Reflection
-This lesson helped me understand how important it is to choose a career that matches my personality. I realized that when people dislike their jobs, it’s often because the work environment doesn’t align with who they are. I learned about six personality categories—Realistic, Investigative, Artistic, Social, Enterprising, and Conventional—and how each one connects to certain types of careers.
-also I have discovered that it is helpful to reflect on the activities I enjoy, rather than just thinking about my strengths or weaknesses. This has made me more aware of how important self-understanding is in finding a meaningful and satisfying career. Going forward, I’ll try to choose a career path that matches my interests so I can feel more motivated, especially on Monday mornings.
+**Situation:**
+I recorded a video of myself participating in a mock interview, where I answered questions such as “Tell us more about yourself.”
 
+**Task:**
+My goal was to practice preparing for interviews, remain calm under pressure, and answer questions effectively.
+
+**Action:**
+I carefully studied each question, practiced introducing myself confidently, and reflected on my strengths and weaknesses to answer honestly. I also researched the company to better understand its values and expectations.
+
+**Result:**
+As a result, I now feel more confident attending interviews, whether online or in person, and better equipped to communicate my skills and experiences clearly.
 ***
 ## Professional networking
 
@@ -54,7 +70,17 @@ also I have discovered that it is helpful to reflect on the activities I enjoy, 
 *This image shows evidence that I did the asessment based on Proffesional networking.*
 
 ### Reflection
-As an IT third year student preparing to enter the professional world, learning how to create a strong, well-structured CV has been both eye-opening and empowering. This lesson highlighted that a CV is not just a document listing qualifications—it's a marketing tool designed to present me in the best possible light to potential employers. The important sections such as education, contact info, and work experience help structure my CV, I have also learnt that a brief personal summary can help highlight my strengths and career goals right away. This knowledge has prepared me to create a polished CV that reflects my capabilities and sets me apart in the Job market.
+**Situation:**
+I completed a professional networking activity and quizz where I answered questions about networking, such as the purpose of networking and common mistakes to avoid.
+
+**Task:**
+My goal was to learn how to create and maintain professional networks effectively and understand key networking principles.
+
+**Action:**
+I carefully read each question, thought about my own experiences, and studied networking strategies such as attending events, being polite, and building meaningful connections.
+
+**Result:**
+I now have a better understanding of professional networking and know how to avoid common mistakes, like not following up or being self-centered.
 
 ***
 ## Workplace Etiquette
@@ -66,8 +92,17 @@ As an IT third year student preparing to enter the professional world, learning 
 *This image shows evidence that I did the asessment based on Workplace Etiquette.*
 
 ### Reflection
-as a third-year IT student, submitting my CV gave me the opportunity to reflect on my academic journey, technical skills, and practical experience. I focused on displaying my strengths in programming,User Interfaces development and software development, while also including relevant coursework, certifications, and projects I have done so far. Crafting the CV taught me how important it is to tailor my application to specific roles and present information professionally and concise way. 
+**Situation:**
+I completed a workplace etiquette activity where I answered questions about proper behavior at work, such as handling emails, attending meetings, and using personal devices.
 
+**Task:**
+My goal was to understand professional behavior in the workplace and learn how to act appropriately in different situations.
+
+**Action:**
+I carefully read each question thought about the right workplace practices, and studied how to handle confidential information, respond politely to rude emails, and manage personal tasks during work hours.
+
+**Result:**
+I now know what is considered appropriate behavior at work and know how to respond professionally in different situations.
 
 
 
