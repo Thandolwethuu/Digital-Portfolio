@@ -12,7 +12,7 @@
 
 ### Reflection : Business Communication (STAR Technique)
 **Situation:**
-I was completing an online module about Business Communication as part of my schoolwork. The activity included questions on communication styles, email etiquette, and professional tone.
+I completed an online task about Business Communication as part of my schoolwork. The activity included questions on communication styles, email etiquette, and professional tone.
 
 **Task:**
 My goal was to understand the main principles of business communication and apply them to professional settings, such as writing formal emails and communicating effectively in meetings or virtual environments.
