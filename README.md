@@ -1,6 +1,6 @@
 # Digital Portfolio
 
-This digital portfolio presents evidence of my Work Integrated Learning (WIL) experience.
+This digital portfolio presents evidence of my Work Integrated Learning (WIL) experience and lesson learnt.
 
 ---
 
