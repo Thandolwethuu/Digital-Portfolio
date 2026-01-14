@@ -28,6 +28,8 @@ I successfully developed a complete web application and gained further experienc
 ### Evidence of Lessons Learnt
 ### Screenshots of the work I did as part of Project submissions 
 -![WIL Evidence](https://raw.githubusercontent.com/Thandolwethuu/Digital-Portfolio/main/wireframes.png)
++![WIL Evidence](https://raw.githubusercontent.com/Thandolwethuu/Digital-Portfolio/main/mockups.png)
+*![WIL Evidence](https://raw.githubusercontent.com/Thandolwethuu/Digital-Portfolio/main/sketches.png)
 
 
 
