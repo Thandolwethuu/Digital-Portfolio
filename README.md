@@ -52,11 +52,11 @@ Here are screenshots of the work I did as part of the project submissions:
 During my WIL project, I started by coming up with a business idea and had to develop a web application independently. I faced tasks that required technical skills and problem-solving, such as designing interfaces, prototyping, and implementing the website.
 
 **Task:**  
-I needed to turn my business idea into a functional web application while learning and applying new technical and design skills. I also learned a new programming language, React, in order to build my project.
+I needed to turn my business idea into a  fully functional web application while learning and applying new technical and design skills. I also learned a new programming language React in order to build my project.
 
 **Action:**  
 I researched and refined my business idea, planned the web application, designed user-friendly interfaces, created prototypes, and implemented the website. I experimented with different design solutions, solved technical challenges, and applied web development techniques to ensure the application was functional and visually appealing for end-users.
 
 **Result:**  
-I successfully transformed my business idea into a working web application. I gained practical skills in interface design, prototyping, HTML, CSS, React, and web development. I also improved my problem-solving, time management, self-discipline, and gained confidence in managing and completing a project independently.
+I successfully transformed my business idea into a working web application. I gained more practical skills in interface design, prototyping, HTML, CSS, React, and web development. I also improved my problem-solving, time management, self-discipline  and gained confidence in managing and completing a project independently.
 
