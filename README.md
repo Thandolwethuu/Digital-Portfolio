@@ -6,6 +6,8 @@ This digital portfolio presents evidence of my Work Integrated Learning (WIL).
 ## Work Integrated Learning (WIL
 
 ### Evidence of WIL Project Placement
+![WIL Evidence](moa_proof.png)
+
 
 
 *This image shows the evidence that I was placed in the WIL project*
