@@ -1,13 +1,14 @@
 # Digital Portfolio
 
-*Digital portfolio in GitHub based on the Work Readiness Training done using Markdown.*
+This digital portfolio presents evidence of my Work Integrated Learning (WIL).
 
-## Business Communication
 
-### Evidence
+## Work Integrated Learning (WIL
 
-<img width="1803" height="906" alt="Business comm" src="https://github.com/user-attachments/assets/ccfebf10-989f-490e-8ff3-446144283fd0" />
-*This image shows the evidence that I did the assessment based on Business Communication*
+### Evidence of WIL Project Placement
+
+
+*This image shows the evidence that I was placed in the WIL project*
 
 
 ### Reflection : Business Communication (STAR Technique)
